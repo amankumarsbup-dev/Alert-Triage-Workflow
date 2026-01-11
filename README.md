@@ -12,3 +12,8 @@ Contextual Investigation: All resource details, detection rules, and related ale
 
 Design Approach
 Built with security engineers in mind, focusing on reducing Mean Time to Resolution (MTTR) from ~4 hours to under 2 hours for critical alerts. The design prioritizes speed over complexity, context over clicks, and provides guidance without being prescriptive.
+
+Documentation Included
+Design Document: Complete problem analysis, user persona research, wireframes, feature prioritization (P0-P3), and success metrics
+Development Roadmap: 8-week implementation plan with backend, frontend, and DevOps action items
+Quick Start Guide: Interactive workflows and usage examples
